@@ -1,0 +1,5 @@
+env/
+__pycache__/
+*.mp4
+temp_input_video.mp4
+.DS_Store
